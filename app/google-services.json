@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "677115696888",
+    "firebase_url": "https://form-9ddf4.firebaseio.com",
+    "project_id": "form-9ddf4",
+    "storage_bucket": "form-9ddf4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:677115696888:android:3be89a1cbd62380cbe0d0d",
+        "android_client_info": {
+          "package_name": "com.example.kerdoiv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "677115696888-3ltqfckoecjiird9rbpdurlvlk3jfh3e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kerdoiv",
+            "certificate_hash": "3deed3fe6d9fd21c56aee72a5b7e6a6d6be5c69d"
+          }
+        },
+        {
+          "client_id": "677115696888-c2dtcg0mjlvusa7hg3m8qq84btlij5fk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfQAFW__brJ8dpNax-cvyUZJZq8qiMHUE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "677115696888-c2dtcg0mjlvusa7hg3m8qq84btlij5fk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
